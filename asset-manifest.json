@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/arantxf.github.io/static/css/main.366d7185.css",
+    "main.js": "/arantxf.github.io/static/js/main.9bab17c8.js",
+    "static/media/portfolio5.png": "/arantxf.github.io/static/media/portfolio5.0831ce2ab63a1df83837.png",
+    "static/media/portfolio2.jpg": "/arantxf.github.io/static/media/portfolio2.a5eb31b5ce44fda14234.jpg",
+    "static/media/portfolio3.jpg": "/arantxf.github.io/static/media/portfolio3.4c96da1f32f0c9d43b41.jpg",
+    "static/media/portfolio1.jpg": "/arantxf.github.io/static/media/portfolio1.183b16485d550ce92835.jpg",
+    "static/media/profiled.jpg": "/arantxf.github.io/static/media/profiled.15c45a50190aacc0e150.jpg",
+    "static/media/portfolio4.jpg": "/arantxf.github.io/static/media/portfolio4.ec3be1350147fd78d083.jpg",
+    "static/media/CV.pdf": "/arantxf.github.io/static/media/CV.102b011d8a1c31e16829.pdf",
+    "index.html": "/arantxf.github.io/index.html",
+    "main.366d7185.css.map": "/arantxf.github.io/static/css/main.366d7185.css.map",
+    "main.9bab17c8.js.map": "/arantxf.github.io/static/js/main.9bab17c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.366d7185.css",
+    "static/js/main.9bab17c8.js"
+  ]
+}
