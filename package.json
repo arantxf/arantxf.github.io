@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://arantxf.github.io/arantxf.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
@@ -13,12 +14,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://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@github.com/arantxf/arantxf.github.io"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -40,7 +41,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-
-"homepage": "https://github.com/arantxf/arantxf.github.io"
+  }
 }
