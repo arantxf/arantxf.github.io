@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import ME from './../../assets/me.png'
+import ME from './../../assets/profiled.jpg'
 import {BiTrophy} from 'react-icons/bi'
 import {MdOutlineDraw} from 'react-icons/md'
 import {FaRegKeyboard} from 'react-icons/fa'

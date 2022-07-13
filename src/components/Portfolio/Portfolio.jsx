@@ -10,37 +10,23 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: Joker,
-    comprar: 'google.com'
+    title: 'Joker',
+    comprar: 'google.com',
   },
 
   {
     id: 2,
     image: IMG2,
-    title: Rorsarch,
-    comprar: 'google.com'
+    title: 'Rorsarch',
+    comprar: 'google.com',
   },
 
   {
     id: 3,
     image: IMG3,
-    title: Spiderman-Mysterio,
-    comprar: 'google.com'
-  },
-
-  {
-    id: 4,
-    image: IMG4,
-    title: Spiderman,
-    comprar: 'google.com'
-  },
-
-  {
-    id: 5,
-    image: IMG5,
-    title: Spiderman,
-    comprar: 'google.com'
-  },
+    title: 'Spiderman-Mysterio',
+    comprar: 'google.com',
+  }
 ]
 
 const Portfolio = () => {
